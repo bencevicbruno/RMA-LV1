@@ -13,7 +13,7 @@ class DoubleTroubleRule: IYahtzeeScoreRule {
         }
 
         return 0
-        0    }
+    }
 
     override fun getName() = "Double Trouble"
 }
